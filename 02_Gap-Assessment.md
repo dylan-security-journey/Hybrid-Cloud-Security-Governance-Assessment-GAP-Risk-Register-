@@ -1,7 +1,7 @@
 # 🔍 Gap Assessment – CloudMed Solutions  
 **Consultant:** Dylan Nguyen (IBM SSRC Portfolio Simulation)  
 **Client:** CloudMed Solutions  
-**Date:** [Insert Date]  
+**Date:** October 2025  
 **Framework Baseline:** NIST Cybersecurity Framework (CSF) + HIPAA + SOC 2 Mapping  
 **Reference Model:** IBM Active Governance Services (AGS) Capabilities  
 **Objective:** Identify control, process, and governance gaps in CloudMed’s hybrid-cloud security posture to improve compliance automation, audit readiness, and executive visibility.
