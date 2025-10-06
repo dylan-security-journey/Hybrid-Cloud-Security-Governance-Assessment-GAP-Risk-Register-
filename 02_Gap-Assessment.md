@@ -61,11 +61,4 @@
 
 ---
 
-## 📁 Deliverables Produced
-- `02_Gap_Assessment_Table.md` (this file)  
-- `03_Risk_Register.xlsx` *(to be created in next phase)*  
-- `04_Executive_Summary.pdf` *(final presentation-style report)*  
-
----
-
 **End of Document**
